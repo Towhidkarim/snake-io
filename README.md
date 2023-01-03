@@ -11,3 +11,10 @@ Game:
 2. In the game, left snake is controlled with WASD and the right one with arrow keys.
 3. Press and hole space(wasd) or num zero(arrow) to boost movement but will deduct 1 score per second.
 4. **The game is will not run without certain versions of Dot Net frame work, visual c++ installed.**
+
+
+#gameplay Footage (Bg music not included in the game files)
+
+
+https://user-images.githubusercontent.com/86102379/210340833-9535c801-5bf2-4264-a3b1-2c01651241bc.mp4
+
